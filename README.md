@@ -1,4 +1,3 @@
-### :large_blue_circle: Aspiro me tornar Desenvolvedor Júnior em breve! 
 <hr>
 
 <div>
